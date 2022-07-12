@@ -9,7 +9,7 @@ on: [push, pull_request]
 
 jobs:
   run-linters:
-    name: Linters
+    name: Mr Coxall's Super Linter
     runs-on: ubuntu-latest
 
     steps:
